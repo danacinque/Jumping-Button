@@ -12,6 +12,7 @@ public class app
     public static void main(String[] args)
     {
         myJFrame frame = new myJFrame(600, 600);
+        // Leon was here.
     }
     
 }
